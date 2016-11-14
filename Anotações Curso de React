@@ -1,0 +1,22 @@
+Anotações Curso de React
+========================
+
+https://www.youtube.com/watch?v=LzwE6vixNBU&index=7&list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7
+
+Rodar o comando para iniciar o server
+npm run dev
+
+Host do React
+lvh.me:8080
+
+
+JSX
+
+DOM Virtual
+
+Trata apenas das Views (não comparar com AngularJS ou Vue)
+
+Renderiza as mudanças do DOM (diff entre DOM atual e novo)
+
+Não faz manipulação direta no DOM
+
